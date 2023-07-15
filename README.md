@@ -1,3 +1,3 @@
-# Exercícios para a Turma 02.
+# Aula 05
 
-> Em toda aula será passada uma lista de exercícios, cada lista estará em uma branch diferente.
+> Dart - Classes e Orientação a Objetos
